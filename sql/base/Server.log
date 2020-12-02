@@ -1,0 +1,102 @@
+TrinityCore rev. b57530ebb143 2020-10-30 13:36:14 +0100 (3.3.5 branch) (Unix, RelWithDebInfo, Static) (worldserver-daemon)
+<Ctrl-C> to stop.
+
+ ______                       __
+/\__  _\       __          __/\ \__
+\/_/\ \/ _ __ /\_\    ___ /\_\ \, _\  __  __
+   \ \ \/\`'__\/\ \ /' _ `\/\ \ \ \/ /\ \/\ \
+    \ \ \ \ \/ \ \ \/\ \/\ \ \ \ \ \_\ \ \_\ \
+     \ \_\ \_\  \ \_\ \_\ \_\ \_\ \__\\/`____ \
+      \/_/\/_/   \/_/\/_/\/_/\/_/\/__/ `/___/> \
+                                 C O R E  /\___/
+http://TrinityCore.org                    \/__/
+
+Using configuration file /root/wotlk/etc/worldserver.conf.
+Using SSL version: OpenSSL 1.1.1f  31 Mar 2020 (library: OpenSSL 1.1.1f  31 Mar 2020)
+Using Boost version: 1.71.0
+Updating Auth database...
+>> Auth database is up-to-date! Containing 1 new and 79 archived updates.
+Updating Character database...
+>> Character database is up-to-date! Containing 1 new and 55 archived updates.
+Updating World database...
+>> Applying update "2020_10_17_00_world.sql" 'F31327E'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_17_01_world_335.sql" 'E000895'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_17_02_world_335.sql" '92014C8'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_17_03_world.sql" 'DEB51A0'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_17_04_world.sql" 'D2F32D0'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_18_00_world.sql" '6CEC6F1'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_18_01_world.sql" 'FBBFC9C'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_19_00_world.sql" '82702ED'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_20_00_world.sql" '43BF48D'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_20_01_world.sql" 'F7B67B3'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_20_02_world.sql" '0EEB1F2'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_20_03_world.sql" '1D033FD'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_20_04_world.sql" 'FD5AD45'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_20_05_world.sql" '2D2D8A0'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_22_00_world.sql" '7692D69'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_22_01_world.sql" 'A78395E'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_22_02_world.sql" 'C3BF27B'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_23_00_world.sql" '7429453'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_25_00_world.sql" '616AC47'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_25_01_world.sql" 'CAE7C19'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_25_02_world.sql" '47F1FBB'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_25_03_world_335.sql" '3BEB6BB'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applying update "2020_10_26_00_world.sql" '5DA23F5'...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+>> Applied 23 queries. Containing 0 new and 5332 archived updates.
+Realm running as realm ID 1
+Using World DB: TDB 335.20101
+Will clear `logs` table of entries older than 1209600 seconds every 10 minutes.
+Client cache version set to: 20101
+Using DataDir ./
+WORLD: MMap data directory is: ./mmaps
+VMap support included. LineOfSight: 1, getHeight: 1, indoorCheck: 1
+VMap data directory is: ./vmaps
+Map file './maps/0004331.map' does not exist!
+Please place MAP-files (*.map) in the appropriate directory (./maps/), or correct the DataDir setting in your worldserver.conf file.
+Unable to load critical files - server shutting down !!!

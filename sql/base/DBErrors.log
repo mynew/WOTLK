@@ -1,0 +1,70 @@
+In mysql_stmt_prepare() id: 15, sql: "UPDATE creature SET MovementType = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 18, sql: "UPDATE creature SET position_x = ?, position_y = ?, position_z = ?, orientation = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 19, sql: "UPDATE creature SET wander_distance = ?, MovementType = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 20, sql: "UPDATE creature SET spawntimesecs = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 52, sql: "DELETE FROM creature WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 61, sql: "INSERT INTO creature (guid, id , map, spawnMask, phaseMask, modelid, equipment_id, position_x, position_y, position_z, orientation, spawntimesecs, wander_distance, currentwaypoint, curhealth, curmana, MovementType, npcflag, unit_flags, dynamicflags) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'guid' in 'field list'
+In mysql_stmt_prepare() id: 64, sql: "INSERT INTO gameobject (guid, id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 68, sql: "UPDATE creature SET zoneId = ?, areaId = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 15, sql: "UPDATE creature SET MovementType = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 18, sql: "UPDATE creature SET position_x = ?, position_y = ?, position_z = ?, orientation = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 19, sql: "UPDATE creature SET wander_distance = ?, MovementType = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 20, sql: "UPDATE creature SET spawntimesecs = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 52, sql: "DELETE FROM creature WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 61, sql: "INSERT INTO creature (guid, id , map, spawnMask, phaseMask, modelid, equipment_id, position_x, position_y, position_z, orientation, spawntimesecs, wander_distance, currentwaypoint, curhealth, curmana, MovementType, npcflag, unit_flags, dynamicflags) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'guid' in 'field list'
+In mysql_stmt_prepare() id: 64, sql: "INSERT INTO gameobject (guid, id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 68, sql: "UPDATE creature SET zoneId = ?, areaId = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 19, sql: "UPDATE creature SET wander_distance = ?, MovementType = ? WHERE guid = ?"
+Unknown column 'wander_distance' in 'field list'
+In mysql_stmt_prepare() id: 61, sql: "INSERT INTO creature (guid, id , map, spawnMask, phaseMask, modelid, equipment_id, position_x, position_y, position_z, orientation, spawntimesecs, wander_distance, currentwaypoint, curhealth, curmana, MovementType, npcflag, unit_flags, dynamicflags) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 64, sql: "INSERT INTO gameobject (guid, id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 15, sql: "UPDATE creature SET MovementType = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 18, sql: "UPDATE creature SET position_x = ?, position_y = ?, position_z = ?, orientation = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 19, sql: "UPDATE creature SET wander_distance = ?, MovementType = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 20, sql: "UPDATE creature SET spawntimesecs = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 52, sql: "DELETE FROM creature WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 61, sql: "INSERT INTO creature (guid, id , map, spawnMask, phaseMask, modelid, equipment_id, position_x, position_y, position_z, orientation, spawntimesecs, wander_distance, currentwaypoint, curhealth, curmana, MovementType, npcflag, unit_flags, dynamicflags) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'guid' in 'field list'
+In mysql_stmt_prepare() id: 64, sql: "INSERT INTO gameobject (guid, id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 68, sql: "UPDATE creature SET zoneId = ?, areaId = ? WHERE guid = ?"
+Unknown column 'guid' in 'where clause'
+In mysql_stmt_prepare() id: 19, sql: "UPDATE creature SET wander_distance = ?, MovementType = ? WHERE guid = ?"
+Unknown column 'wander_distance' in 'field list'
+In mysql_stmt_prepare() id: 61, sql: "INSERT INTO creature (guid, id , map, spawnMask, phaseMask, modelid, equipment_id, position_x, position_y, position_z, orientation, spawntimesecs, wander_distance, currentwaypoint, curhealth, curmana, MovementType, npcflag, unit_flags, dynamicflags) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 64, sql: "INSERT INTO gameobject (guid, id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 19, sql: "UPDATE creature SET wander_distance = ?, MovementType = ? WHERE guid = ?"
+Unknown column 'wander_distance' in 'field list'
+In mysql_stmt_prepare() id: 61, sql: "INSERT INTO creature (guid, id , map, spawnMask, phaseMask, modelid, equipment_id, position_x, position_y, position_z, orientation, spawntimesecs, wander_distance, currentwaypoint, curhealth, curmana, MovementType, npcflag, unit_flags, dynamicflags) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+In mysql_stmt_prepare() id: 64, sql: "INSERT INTO gameobject (guid, id, map, spawnMask, phaseMask, position_x, position_y, position_z, orientation, rotation0, rotation1, rotation2, rotation3, spawntimesecs, animprogress, state) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+Unknown column 'spawnMask' in 'field list'
+[1146] Table 'world.updates_include' doesn't exist
+Your database structure is not up to date. Please make sure you've executed all queries in the sql/updates folders.
+[1146] Table 'world.updates_include' doesn't exist
+Your database structure is not up to date. Please make sure you've executed all queries in the sql/updates folders.
